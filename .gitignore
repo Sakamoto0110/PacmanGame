@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+/.vs/slnx.sqlite
+/.vs/PacmanGame/v17/Browse.VC.opendb
+/.vs/PacmanGame/v17/Browse.VC.db-wal
+/.vs/PacmanGame/v17/Browse.VC.db-shm
+/.vs/PacmanGame/v17/Browse.VC.db
+/.vs/PacmanGame/v17/.suo
+/.vs/PacmanGame/FileContentIndex/read.lock
+/.vs/PacmanGame/FileContentIndex/b7ca5902-cc41-49cf-92d4-b0cdbb8b2b0c.vsidx
+/.vs/PacmanGame/FileContentIndex/5ce0ad7d-ac71-4985-879d-2532f5c25326.vsidx
+/.vs/CMakeWorkspaceSettings.json
